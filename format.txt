@@ -1,0 +1,25 @@
+---
+=Name: Restaurant Name
+=Phone: +00 123-456-789
+---
+=Category 1 
+]item - price
+!comment
+]item - price
+]item - price
+]item - price
+!comment
+--
+=Category 2
+]item - price
+]item - price
+]item - price
+!comment
+--
++
+=Category 3
+]item - price
+]item - price
+!commenting on this
+]item - new price
+--
