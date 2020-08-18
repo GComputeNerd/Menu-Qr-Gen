@@ -10,6 +10,8 @@ This is a program which takes a Menu text file, and generates a QR Code for it.
 
 That's it! You are now all set to use The Generator.
 
+Also for Google Drive Authentication, the Google Drive API is used so you need a OAuth Token for that. Save it as client_secrets.json and you're all set
+
 ## Working
 
 This Generator works in 3 steps
